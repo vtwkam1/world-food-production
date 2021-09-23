@@ -5,4 +5,4 @@
 - [`country-codes.csv`](country-codes.csv): ISO 3166-1 alpha-3 country codes from [DataHub](https://datahub.io/core/country-codes/r/0.html), modified
 
 ### View `cfg.ipynb` in [nbviewer](https://nbviewer.jupyter.org/github/vtwkam1/world-food-production/blob/master/cfg.ipynb)
-*Final widget does not update in nbviewer, but works in Jupyter notebook*
+*Chloropleth maps not rendering in nbviewer and final widget does not update, but both work in Jupyter notebook*
